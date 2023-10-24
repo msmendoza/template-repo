@@ -1,4 +1,4 @@
-from src.utils import example_func
+from src.utils import example_func, example_func_2
 
 
 a = 1
@@ -8,3 +8,4 @@ d = a + b + c
 
 if __name__ == "__main__":
     example_func()
+    example_func_2()
